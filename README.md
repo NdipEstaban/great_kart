@@ -1,3 +1,3 @@
 # great_kart
 
-a full stack django e commerce django application
+a full stack e-commerce website built with django
